@@ -1,0 +1,7 @@
+{
+	"type":"CTM",
+	"textures":[
+        "./panel-nails",
+        "./panel-nails-ctm"
+    ]
+}

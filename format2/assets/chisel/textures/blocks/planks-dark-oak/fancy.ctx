@@ -1,0 +1,7 @@
+{
+	"type":"CTM",
+	"textures":[
+        "./fancy",
+        "./fancy-ctm"
+    ]
+}
