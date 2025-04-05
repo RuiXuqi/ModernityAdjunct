@@ -1,3 +1,11 @@
+An unofficial repo of Modernity Adjunct. For my own use.
+
+[CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/modernity-adjunct)
+[Modrinth](https://modrinth.com/resourcepack/modernity-adjunct)
+[Discord server](https://discord.com/invite/ysKmmqe)
+
+# Modernity Adjunct
+
 This resource pack contains backports, adaptations, and sometimes constructions of textures or styles from more modern versions of many popular mods.
 
 This pack is intended to supplement the [Modernity resource pack](https://legacy.curseforge.com/minecraft/texture-packs/modernity), which backports vanilla textures, so that things like nether ores will be textured appropriately alongside the official updated Netherrack texture.
