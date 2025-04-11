@@ -1,0 +1,12 @@
+//**********//
+//EXTRACELLS//
+//**********//
+
+//Items
+extracells.item.terminal.fluid.wireless.name=Беспроводной МЭ жидкостный терминал
+extracells.item.fluid.pattern=МЭ жидкостный шаблон [WIP]
+
+//Blocks
+extracells.block.fluidcrafter.name=МЭ жидкостный сборщик
+extracells.block.fluidinterface.name=МЭ жидкостный интерфейс
+extracells.block.fluidfiller.name=МЭ жидкостный авто-заполнитель
